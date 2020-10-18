@@ -5,7 +5,13 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     <h1>Welcome to Liwin's CA Funsta</h1>
+      <header className="App-header">
+       
+        <p>
+        Welcome to Liwin's CA Funsta.
+        </p>
+        
+      </header>
     </div>
   );
 }
